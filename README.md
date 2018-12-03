@@ -61,3 +61,5 @@ Mimi Onuoha’s writings on ‘algorithmic violence’ (https://github.com/MimiO
 This extends beyond the screen into the fabric of our lives, as we have integrated digital tools into all parts of our lives, these have the potential to raise us up or pull us down. thee are not outliers, but the reality for many. Engaging in these areas, extending from data visualization to this is a way to make these tools if not avaiable, at least understandable to all.
 
 There’s a reason this is being posted on github, where the text is available for anyone to fork and adapt to, add upon, or change. That access, the transparency is aspirational, but it’s a pace to start.
+
+Generally we need to acknowledge that the tols we're using are generated from a top-down approach. We need to bind bottom-up methodts of working with these.

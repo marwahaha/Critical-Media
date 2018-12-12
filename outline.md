@@ -47,4 +47,4 @@ What is the state of media arts today? How do we make work that is critically en
 - Wendy Chun
 - Paul Dourish
 - Philip Agre
-- Critical Engineering Manifesto-Mike Pepi
+- Critical Engineering Manifesto - Mike Pepi

@@ -66,6 +66,8 @@ These social endeavors move beyond the “intersection of art an technology” a
 
 Individuals like [Mimi Onuoha](http://mimionuoha.com/) also engage in this type of investigation. Her writings [on algorithmic violence](https://github.com/MimiOnuoha/On-Algorithmic-Violence) identify ways in which unequal access to information and computation reinforce the status quo, paving a path for capitalism to continue unabated by predictive policing to mobilize forces against those least able to defend themselves.
 
+---
+
 This last point truly extends beyond the screen and into the fabric of our lives. As we have integrated digital tools into all aspects of society, they have the potential to raise us up or pull us down. We need to acknowledge that the tools we use are loaded with political and social implications. They are not created with artists in mind, but they are accessiable. In that accessability, we must be mindful of how we engage with them. We need to engage in bottom-up methods[9](9) of working with contemporary tecnhologies that are not only-human centric, but also engaged in reflecting and examinging the ways in which these tools shape culture and society.
 
 ---

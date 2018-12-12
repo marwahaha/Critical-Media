@@ -1,7 +1,17 @@
 # Critical-Media
 A position statement on contemporary media arts education
 
-What are the responsibilities of educators today when it comes to media arts education? How can we engage in ethical discussions about using tools that are, by many accounts, actively destroying our planet, pulling apart the social foundations of communities, and advancing capitalist concerns over human ones?
+What are the responsibilities for educators today when it comes to media arts education? How can we engage in ethical discussions about using tools that are, by many accounts, actively destroying our planet, pulling apart the social foundations of communities, and advancing capitalist concerns over human ones? How can we balance the practical needs of students (like securing employment) with the aspirational needs we have for them (becoming engaged citizens)?[1]
+
+This is in part a respnse to the explosion of 'maker' culture
+
+For these purposes, contemporary media art will be discussed along the folloing four axes :  
+* these are networked
+* these are computational
+* these are algorithmic
+* these are based on data
+
+## 
 
 In the last decade, there has been an explosion of STEM and STEAM educational initiatives in the United States, pushing students towards degrees in Scien, Technology, Engineering and Math. RISD tacked on the A (for Arts) in an attempt to “… foster the true innovation that comes with combining the mind of a scientist or technologist with that of an artist or designer.” And this is fine, but what’s missing here is the lack of a context when education these students. The models they are being shown are Silicon Valley tech companies; “disruptors” who are really helping maintain the status quo.
 
@@ -63,3 +73,7 @@ This extends beyond the screen into the fabric of our lives, as we have integrat
 There’s a reason this is being posted on github, where the text is available for anyone to fork and adapt to, add upon, or change. That access, the transparency is aspirational, but it’s a pace to start.
 
 Generally we need to acknowledge that the tols we're using are generated from a top-down approach. We need to bind bottom-up methodts of working with these.
+
+
+---
+(#1) This is also written as an bit of an aspirational call for myself. 

@@ -33,7 +33,7 @@ Contemporary media art is nothing if not algorithmic in nature. Mainstays of the
 
 It's easy to cede decisions to computational tools for a variety of reasons; a large one is the appearance of neutrality. If it’s on a computer and digital, it must be objective! The flaw in this assumption is that these tools are made by people, and our baises worm their way into the ways these express themselves.  
 
-Adam Harvey's CV Dazzle (https://ahprojects.com/cvdazzle/) and  Hyperface (https://ahprojects.com/hyperface/) projects leverage computer vision algorithms in various ways, exposing the weaknesses and biases in a powerful, commonplace tool.
+Adam Harvey's [CV Dazzle](https://ahprojects.com/cvdazzle/) and  [Hyperface](https://ahprojects.com/hyperface/) projects leverage computer vision algorithms in various ways, exposing the weaknesses and biases in a powerful, commonplace tool.
 
 These projects thwart computer vision libraries from computationally identifying faces. While this exposes the functionality of the tools, it also opens up broader questions about privacy, surveillance, and analysis. CV Dazzle achieves this through makeup and hairstyling to make a face appear less than human. Hyperface does this by creating multiple false positives, overloading the system with false faces. This exploit leverages the expectations of the algorithm to negate its effectiveness.
 
@@ -48,7 +48,7 @@ Embedded systems like microcontrollers which enable the “internet of things”
 
 The current vogue of internet connected devices is enabled by both the physical proliferation of financially inexpensive devices and “the cloud”; the nebulous entity that stores our information and retrieves our movie suggestions. Identifying the ways in which these infrastructures engender, consolidate and expand existing power structures can happen in this space.
 
-For example, Evan Roth’s Red Lines (http://p2p.redlines.network/) documents the points where undersea fiber optics lines come on shore. These locations mark places where boundaries are crossed and act as a physical reminder of the infrastructures that carry information around the world. The naming refers to the infrared light that transmits data as quickly as possible in the fiber, but also harkens back to the maps that marked underseas telegraph cables with red lines operated by the British. These marked conectiond from London to the empire's various military outposts. The paths the cables flow are the same. We reinforce existing structures as we add new layers to them. 
+For example, Evan Roth’s [Red Lines](http://p2p.redlines.network/) documents the points where undersea fiber optics lines come on shore. These locations mark places where boundaries are crossed and act as a physical reminder of the infrastructures that carry information around the world. The naming refers to the infrared light that transmits data as quickly as possible in the fiber, but also harkens back to the maps that marked underseas telegraph cables with red lines operated by the British. These marked conectiond from London to the empire's various military outposts. The paths the cables flow are the same. We reinforce existing structures as we add new layers to them. 
 
 ## interaction/machine learning
 The primary differentiator between computational media and traditional media, its executability of it, requires multiple agents to become manifest. Traditional media was a consumption model, something was made by an agent, then consumed by another. With computational media, the dynamics between the two is shifting. Working with APIs and the transfer of information between machines is an entry point to conversatiosn about data, its use, and the ways it can be manipulated by us ans us by the data. 
@@ -57,14 +57,14 @@ Computational media relies on humans as a resource for generation and consumptio
 
 We train google’s autonomous car efforts with reCaptchas, identifying buses, bicycles, traffic lights and signs. We contribute to voice recognition with Amazon Echoes, Google homes and Apple’s Siri. These then retrain us based on the data they have received, moving towards a homogenized and stagnant environment, where all information is a generality brought forth through an algorithim trained on our behaviors where we try to please the machine to make them happy.
 
-Stephanie Dinkin's [Conversatiosn with Bina48](http://www.stephaniedinkins.com/conversations-with-bina48.html) examines how we can build a relationship with intellegent machines. An ongoing conversation between the artist and an antrophormic robot that presents as an elderly African-American woman running an AI that is designed to act as analogous to a human as possible. The conversations, which act as training material for the AI, have covered topics like "family, racism, faith, robot civil rights, loneliness, knowledge and Bina48’s concern for her robot friend that are treated more like lab rats than people." The conversations are humorous and engaging in a way that reveals some of the frustrations and limitations of engaging with machines that try to respond intellegently to human behaviors.
+Stephanie Dinkin's [Conversations with Bina48](http://www.stephaniedinkins.com/conversations-with-bina48.html) examines how we can build a relationship with intellegent machines. An ongoing conversation between the artist and an antrophormic robot that presents as an elderly African-American woman running an AI that is designed to act as analogous to a human as possible. The conversations, which act as training material for the AI, have covered topics like "family, racism, faith, robot civil rights, loneliness, knowledge and Bina48’s concern for her robot friend that are treated more like lab rats than people." The conversations are humorous and engaging in a way that reveals some of the frustrations and limitations of engaging with machines that try to respond intellegently to human behaviors.
 
 ## data and access
 In addition to being used as a training model for machines, data can also be leveraged as a tool for research and journalism. There is a growing awareness of how human bias leaks into computational tools. New organizations like [Data and Society](https://datasociety.net/) and the [AI Now Institute](https://ainowinstitute.org/), are finding new ways to engage in critical media through data. 
 
 These social endeavors move beyond the “intersection of art an technology” and start to raise an awareness of community based and led research into the implications of contemporary technologies. 
 
-Individuals like Mimi Onuoha also engage in this type of investigation. Her writings [on algorithmic violence](https://github.com/MimiOnuoha/On-Algorithmic-Violence) identify ways in which unequal access to information and computation reinforce the status quo, paving a path for capitalism to continue unabated by predictive policing to mobilize forces against those least able to defend themselves.
+Individuals like [Mimi Onuoha](http://mimionuoha.com/) also engage in this type of investigation. Her writings [on algorithmic violence](https://github.com/MimiOnuoha/On-Algorithmic-Violence) identify ways in which unequal access to information and computation reinforce the status quo, paving a path for capitalism to continue unabated by predictive policing to mobilize forces against those least able to defend themselves.
 
 This last point truly extends beyond the screen and into the fabric of our lives. As we have integrated digital tools into all aspects of society, they have the potential to raise us up or pull us down. We need to acknowledge that the tools we use are loaded with political and social implications. They are not created with artists in mind, but they are accessiable. In that accessability, we must be mindful of how we engage with them. We need to engage in bottom-up methods[9](9) of working with contemporary tecnhologies that are not only-human centric, but also engaged in reflecting and examinging the ways in which these tools shape culture and society.
 
@@ -74,15 +74,15 @@ This last point truly extends beyond the screen and into the fabric of our lives
 
 <a name = "2"></a> 2 Socio-economics, race, and gender issues are all implicated here. 
 
-<a name = "3"></a> 3 [http://idm.engineering.nyu.edu/]IDM
+<a name = "3"></a> 3 [IDM](http://idm.engineering.nyu.edu/)
 
 <a name="4"></a> 4 It's that lovely old chestnut that "guns don't kill people, people kill people." This sidesteps 1) gus engender violence because they are an easy weapo and 2) it comepletly neglects any way to address human factors. Why not build the anti-gun, one that actively inhibits violence between people?
 
 <a name="5"></a> 5 Star, Susan Leigh. “The Ethnography of Infrastructure.” The American Behavioral Scientist, vol. 43, no. 3, SAGE Publications Inc, Nov. 1999, pp. 377–91.
 
-<a name="6"></a> 6 My own work has explored this materiality as well. https://ennuigo.com/projects/SBBOD/ ties together the abstract work of a computer's processor to the physical labor involved in mining materials from the earth that are needed to manufature computers. 
+<a name="6"></a> 6 My own work has explored this materiality as well. [SBBOD](https://ennuigo.com/projects/SBBOD/) ties together the abstract work of a computer's processor to the physical labor involved in mining materials from the earth that are needed to manufature computers. 
 
-<a name="7"></a> 7 Sam Lavigne’s Training Poses http://lav.io/training/ is another great example of training data that "trains us"
+<a name="7"></a> 7 Sam Lavigne’s [Training Poses](http://lav.io/training/) is another great example of training data that "trains us"
 
 <a name="8"></a> 8 Also a shoutout to ProPublica's work on [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 

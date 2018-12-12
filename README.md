@@ -1,7 +1,7 @@
 # Critical-Media
 A position statement on contemporary media arts education
 
-What are the responsibilities for educators today when it comes to media arts education? How can we engage in ethical discussions about using tools that are, by many accounts, actively destroying our planet, pulling apart the social foundations of communities, and advancing capitalist concerns over human ones? How can we balance the practical needs of students (like securing employment) with the aspirational needs we have for them (becoming engaged citizens)? <a href="#1">1</a>
+What are the responsibilities for educators today when it comes to media arts education? How can we engage in ethical discussions about using tools that are, by many accounts, actively destroying our planet, pulling apart the social foundations of communities, and advancing capitalist concerns over human ones? How can we balance the practical needs of students (like securing employment) with the aspirational needs we have for them (becoming engaged citizens)? [1](#1)
 
 This is in part a respnse to the explosion of 'maker' culture
 
@@ -78,5 +78,5 @@ There’s a reason this is being posted on github, where the text is available f
 
 ---
 
-[1](#1) This is also written as an bit of an aspirational call for myself. 
+<a name = "#1"></a> This is also written as an bit of an aspirational call for myself. 
 

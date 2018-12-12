@@ -77,4 +77,6 @@ Generally we need to acknowledge that the tools we're using are generated from a
 There’s a reason this is being posted on github, where the text is available for anyone to fork and adapt to, add upon, or change. That access, the transparency is aspirational, but it’s a pace to start.
 
 ---
+
 (#1) This is also written as an bit of an aspirational call for myself. 
+

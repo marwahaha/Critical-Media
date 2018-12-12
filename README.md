@@ -72,8 +72,9 @@ This extends beyond the screen into the fabric of our lives, as we have integrat
 
 There’s a reason this is being posted on github, where the text is available for anyone to fork and adapt to, add upon, or change. That access, the transparency is aspirational, but it’s a pace to start.
 
-Generally we need to acknowledge that the tols we're using are generated from a top-down approach. We need to bind bottom-up methodts of working with these.
+Generally we need to acknowledge that the tools we're using are generated from a top-down approach. We need to build bottom-up methods of working with contemporary tecnhologies. OSes, platforms, etc. are build with expanding the interets of the elites, not of the communities and individuals who use thm. By working with the people directly this will help make tools better for all.
 
+There’s a reason this is being posted on github, where the text is available for anyone to fork and adapt to, add upon, or change. That access, the transparency is aspirational, but it’s a pace to start.
 
 ---
 (#1) This is also written as an bit of an aspirational call for myself. 

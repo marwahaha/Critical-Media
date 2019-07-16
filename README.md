@@ -37,7 +37,7 @@ Adam Harvey's [CV Dazzle](https://ahprojects.com/cvdazzle/) and  [Hyperface](htt
 
 These projects thwart computer vision libraries from computationally identifying faces. While this exposes the functionality of the tools, it also opens up broader questions about privacy, surveillance, and analysis. CV Dazzle achieves this through makeup and hairstyling to make a face appear less than human. Hyperface does this by creating multiple false positives, overloading the system with false faces. This exploit leverages the expectations of the algorithm to negate its effectiveness.
 
-Here, it’s apparent that knowledge of the algorithm is used for identifying the means though which we can subvert expectations. Knowing the tools is a starting point, but knowing the limitations and exploiting them opens the door for a different kind of critique that is more abotu culture than it is about technology.
+Here, it’s apparent that knowledge of the algorithm is used for identifying the means though which we can subvert expectations. Knowing the tools is a starting point, but knowing the limitations and exploiting them opens the door for a different kind of critique that is more about culture than it is about technology.
 
 ## Infrastructure exploration
 Parapharsing Susan Starr, “One person’s infrastructure is another’s job.” [5](5) The technological toolchain is phsycially made up of deep time, coming from the earth’s core, manifesting as materials we dig up and put into batteries, comprised of shipping lanes and data packets that help plan the movement of freight shipments across the world. Knowing the basics of electronic hardware is a good place to begin to understand the ways in which we are materially tied to the earth. [6](6)
